@@ -1,4 +1,6 @@
-# **NOMBRE:**_____________________________________
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/itc-isc/videostore-1-brendaavaldees)
+
+# **NOMBRE:** VALDÉS PICOS BRENDA LETICIA
 
 # **Ejercicio-Comprensión de Programas**
 **VideoStore** es una App Java desarrollada para gestionar el Punto de Venta de una tienda de renta de Videos.
